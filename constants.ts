@@ -3,8 +3,8 @@ import { MenuItem, Size } from './types';
 export const RESTAURANT_INFO = {
   name: "Gostinho Brasileiro",
   address: "R. Prof. Edgar de Moraes, 235 - Jardim Frediani, Santana de Parnaíba - SP, 06502-165",
-  phone: "(11) 96300-0056",
-  whatsapp: "5511963000056"
+  phone: "(11) 91077-7888",
+  whatsapp: "5511910777888"
 };
 
 export const MENU_ITEMS: MenuItem[] = [
